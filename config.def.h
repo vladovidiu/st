@@ -9,7 +9,7 @@
 // static char *font = "RobotoMono Nerd Font:style=Medium,Retina:pixelsize=14:antialias=true:autohint=true";
 // static char *font = "Iosevka Nerd Font:style=Medium,Regular:pixelsize=16:antialias=true:autohint=true";
 // static char *font = "Hack Nerd Font Mono:style=Regular:pixelsize=14:antialias=true:autohint=true";
-static char *font = "Inconsolata Nerd Font Mono:style=Medium:pixelsize=16:antialias=true:autohint=true";
+static char *font = "Cascadia Code:style=Medium:pixelsize=14:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
