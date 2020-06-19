@@ -9,7 +9,7 @@
 static char *font = "InputMono:pixelsize=14:antialias=true:autohint=true";
 /* static char *font2[] = { "Inconsolata for Powerline:pixelsize=12:antialias=true:autohint=true" }; */
 /* static char *font2[] = { "Cascadia Code:pixelsize=12:antialias=true:autohint=true" }; */
-static char *font2[] = { "InputMono:pixelsize=12:antialias=true:autohint=true" };
+static char *font2[] = { "InputMono:pixelsize=14:antialias=true:autohint=true" };
 static int borderpx = 1;
 
 /*
